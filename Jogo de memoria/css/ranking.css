@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+#titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 100px;
+    font-style: italic;
+    font-weight: bold;
+    color: yellow;
+}
+#divTable{
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+h3{
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#divTable2{
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

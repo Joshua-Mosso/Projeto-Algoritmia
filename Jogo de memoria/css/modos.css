@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+#titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 100px;
+    font-style: italic;
+    font-weight: bold;
+    color: yellow;
+}
+#hard{
+    margin-left: 560px;
+    margin-top: 20px;
+    background-color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    border-radius: 5px;
+}
+#easy{
+    margin-left: 560px;
+    margin-top: 20px;
+    background-color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    border-radius: 5px;
+}
